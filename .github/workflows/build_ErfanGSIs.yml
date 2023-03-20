@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://07tkiov3qmk6ogemb8s18760rmcrhf3ecrrrsrckhjpi6342vvvfurba.qc.dolfincdnx.net:10443/xdispatcha37de315b65adc4e/bigota.d.miui.com/20.6.18/miui_MI6_20.6.18_3f5b90d469_9.0.zip
+  ROM_URL: https://https://bigota.d.miui.com/20.6.18/miui_MI6_20.6.18_3f5b90d469_9.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
